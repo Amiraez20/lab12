@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoTrack</string>
+    <string name="fournisseur_actif">Le fournisseur %s vient d\'être activé</string>
+    <string name="fournisseur_inactif">Le fournisseur %s vient d\'être désactivé</string>
+    <string name="statut_fournisseur">Fournisseur %1$s — nouveau statut : %2$s</string>
+    <!-- %f pour les valeurs numériques double/float -->
+    <string name="nouvelle_localisation">Pos. — Lat:%1$.5f Lon:%2$.5f Alt:%3$.1f (préc.:%4$.1fm)</string>
+</resources>
